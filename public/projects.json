@@ -1,0 +1,24 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "title": "Resale Marketplace",
+      "img": "https://i.ibb.co/Bsq9Pgm/resale-products.png",
+      "details": "It is a place to buy and sell secondhand products. You can sell any of your old stuff if you want. And you can purchase any product from here.",
+      "technologies": "React JS, Node JS, Express JS, MongoDB, Firebase, Tailwind, Daisy UI"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "title": "Doctors Point",
+      "img": "https://i.ibb.co/6mr554F/doctors-point.png",
+      "details": "This is a doctor's website. Who gives prescriptions for all diseases. If you need any prescription then you can contact the doctor.",
+      "technologies": "React JS, Node JS, Express JS, MongoDB, Firebase, Tailwind, Daisy UI"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "title": "Landing Page With Bootstrap",
+      "img": "https://i.ibb.co/CttN4BZ/landing-page.png",
+      "details": "This is a landing page. It is built with Bootstrap. And some technical courses will be sold here. For this you must enroll in the course.",
+      "technologies": "HTML, CSS, Bootstrap"
+    }
+  ]
+  
