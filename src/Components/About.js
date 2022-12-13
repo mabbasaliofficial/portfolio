@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div id="about">
       <h3 className="text-3xl text-center font-bold divider">About Me</h3>
-      <div className="border lg:p-10 w-3/4 lg:mx-auto mx-auto p-5 lg:m-10 rounded-lg">
+      <div className="border lg:p-10 lg:mx-10  mx-5 p-5 lg:m-10 rounded-lg">
         <p className="lg:text-xl">
           I am a Full Stack Web Developer. I have experience in both front-end and back-end
           development. As a Web Developer, I can develop high-quality web applications that are
